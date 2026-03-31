@@ -44,7 +44,7 @@
 - Database design with PostgreSQL + Drizzle
 - Building premium 3D landing pages
 - Production-ready architecture & workflows
-- Deploying your app with a live URL
+- Deploying your app with a live URL 
 
 ---
 
